@@ -1,8 +1,5 @@
 # belly_button_challenge
 
-Source Code: The code in this repo uses the base starter code provided. The remaining part of the code reflects individual contributions
-Belly-Button Dashboard App Link:file:///C:/Users/lulum/OneDrive/Desktop/DataClass/UCB-VIRT-DATA-PT-01-2023-U-LOLC/02-Homework/14-Interactive-Visualizations/Starter_Code/StarterCode/index.html
-
 Project Background
 This assignment asked to build an interactive dashboard using javascript and plotly to explore a dataset which catalogs microbes that live in human belly buttons.
 
